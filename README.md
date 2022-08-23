@@ -17,4 +17,5 @@ python src/chat_statistics/stats.py
 '''
 
 to generate a word cloud **of json data in "DATA_DIR"**
+
 to get top users with most replies to questions.
